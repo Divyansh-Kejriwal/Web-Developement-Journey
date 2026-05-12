@@ -1,0 +1,15 @@
+.info{
+    color: cyan;
+}
+.navbar{
+    background-color: #222;
+    padding: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: aliceblue;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
