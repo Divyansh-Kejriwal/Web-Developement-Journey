@@ -43,3 +43,22 @@ Observations:
 - spacing and typography affect design heavily
 - CSS changes visual hierarchy dramatically
 - frontend design is more about structure and spacing than flashy effects
+
+### Day 4
+Learned:
+- CSS classes
+- reusable styling
+- hover effects
+- flexbox basics
+- alignment and spacing concepts
+
+Built:
+- improved portfolio website layout
+- flexbox navigation bar
+- reusable CSS structure
+- better image presentation
+
+Observations:
+- frontend design depends heavily on spacing and alignment
+- flexbox makes layout control much easier
+- visual hierarchy affects how professional a website feels
