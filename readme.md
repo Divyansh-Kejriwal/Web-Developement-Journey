@@ -23,7 +23,9 @@ Built:
 ### Current Focus
 Improving frontend fundamentals and building consistency.
 
-## Day 3
+---
+
+### Day 3
 Learned:
 - how to connect CSS files
 - selectors
@@ -44,6 +46,8 @@ Observations:
 - CSS changes visual hierarchy dramatically
 - frontend design is more about structure and spacing than flashy effects
 
+---
+
 ### Day 4
 Learned:
 - CSS classes
@@ -62,3 +66,26 @@ Observations:
 - frontend design depends heavily on spacing and alignment
 - flexbox makes layout control much easier
 - visual hierarchy affects how professional a website feels
+
+---
+
+### Day 5
+Learned:
+- card-based UI structure
+- layout composition
+- nested flexbox
+- image sizing behavior
+- hover effects and transitions
+
+Built:
+- reusable card components
+- interactive hover animations
+- cleaner grouped content sections
+- improved visual hierarchy
+
+Observations:
+- frontend design depends heavily on proportional balance
+- hover effects make interfaces feel interactive
+- cards are reusable UI containers used heavily in modern websites
+
+---
