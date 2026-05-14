@@ -89,3 +89,20 @@ Observations:
 - cards are reusable UI containers used heavily in modern websites
 
 ---
+### Day 6
+Learned:
+- responsive design fundamentals
+- media queries
+- responsive flexbox layouts
+- viewport-based thinking
+- flexbox axis behavior
+
+Built:
+- responsive navigation layout
+- adaptive card sections
+- mobile-friendly layout structure
+
+Observations:
+- flexbox alignment depends on layout direction
+- responsive design is about adapting to constraints, not shrinking elements
+- frontend layout systems are more contextual than they initially appear
